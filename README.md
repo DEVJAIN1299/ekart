@@ -1,2 +1,2 @@
-# ekart
+# ecart
 ecart website
